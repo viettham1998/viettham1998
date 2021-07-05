@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![viettham1998](dino.gif)]
 <!--
 **viettham1998/viettham1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
